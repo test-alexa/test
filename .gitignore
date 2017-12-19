@@ -6,6 +6,6 @@ ld/*
 #I don't know what the heck I'm doing but let's see how it goes
 ########
 
-.war
+*.war
 ########
 #end#
